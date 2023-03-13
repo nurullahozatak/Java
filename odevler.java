@@ -6,7 +6,7 @@ public class odevler {
 
 	public static void main(String[] args) {
 		/*
-		System.out.println("Hello World!");
+		System.out.println("Hello ARDA!");
 		
 		int i = 4;
 		String a = "Verdigim Sayi : ";
